@@ -56,6 +56,8 @@ TAG_CLOUD_MAX_ITEMS = 50
 TAG_CLOUD_BADGE = True
 TAG_CLOUD_SORTING = 'size'
 
+MARKUP = ('md', 'ipynb')
+
 # Plugins
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ["tag_cloud", "autopages"]
+PLUGINS = ["tag_cloud", "autopages",'pelican-ipynb.markup']
