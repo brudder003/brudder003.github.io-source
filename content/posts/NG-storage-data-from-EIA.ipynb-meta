@@ -1,7 +1,0 @@
-Title: Getting Natural Gas storage data from EIA's API
-Slug: NG-EIA-data
-Date: 2017-01-06 20:00
-Category: posts
-Tags: python, EIA, API, JSON, requests, Energy
-Author: Brett Rudder
-Summary: An example of grabbing data from EIA using their API.
